@@ -1,4 +1,5 @@
-Name:Test
+Name: Test
+on: workflows_dispatch
 build:
   docker:
     worker: Dockerfile
